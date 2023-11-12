@@ -1,1 +1,1 @@
-# Movies_Review App using movies.db API
+# Movies_Review App using themovies.db API
